@@ -1,0 +1,89 @@
+[
+  {
+    "slug": "wooden",
+    "name": "Wooden",
+    "description": "Hand-carved boards, spoons & kitchen pieces from solid walnut and acacia.",
+    "image": "cat-wooden",
+    "color": "#8B5A2B",
+    "order": 1,
+    "subcategories": [
+      "Cutting Boards",
+      "Spoons",
+      "Bowls",
+      "Trays",
+      "Custom Engraving"
+    ]
+  },
+  {
+    "slug": "leather",
+    "name": "Leather",
+    "description": "Full-grain leather wallets, bags and accessories, stitched by hand.",
+    "image": "cat-leather",
+    "color": "#7B3F1E",
+    "order": 2,
+    "subcategories": [
+      "Wallets",
+      "Bags",
+      "Belts",
+      "Card Holders",
+      "Journals"
+    ]
+  },
+  {
+    "slug": "cutlery",
+    "name": "Cutlery",
+    "description": "Forged chef knives with hand-finished hardwood handles.",
+    "image": "cat-cutlery",
+    "color": "#3A3A3A",
+    "order": 3,
+    "subcategories": [
+      "Chef Knives",
+      "Paring Knives",
+      "Knife Sets",
+      "Cleavers"
+    ]
+  },
+  {
+    "slug": "kitchen",
+    "name": "Kitchen",
+    "description": "Everyday kitchen essentials turned and finished by artisans.",
+    "image": "cat-kitchen",
+    "color": "#B45309",
+    "order": 4,
+    "subcategories": [
+      "Bowls",
+      "Canisters",
+      "Utensils",
+      "Serveware"
+    ]
+  },
+  {
+    "slug": "gifts",
+    "name": "Gifts",
+    "description": "Curated gift sets and custom keepsakes for every occasion.",
+    "image": "cat-gifts",
+    "color": "#BE123C",
+    "order": 5,
+    "subcategories": [
+      "Birthday Gifts",
+      "Wedding Gifts",
+      "Anniversary Gifts",
+      "Corporate Gifts",
+      "Custom Gifts",
+      "Luxury Gifts"
+    ]
+  },
+  {
+    "slug": "sports",
+    "name": "Sports",
+    "description": "Hand-crafted wooden sports goods built to perform.",
+    "image": "cat-sports",
+    "color": "#15803D",
+    "order": 6,
+    "subcategories": [
+      "Cricket",
+      "Outdoor",
+      "Games"
+    ]
+  }
+]

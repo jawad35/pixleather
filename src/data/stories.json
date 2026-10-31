@@ -1,0 +1,196 @@
+[
+  {
+    "id": "s1",
+    "slug": "how-wooden-products-are-made",
+    "title": "How Wooden Products Are Made",
+    "description": "From rough timber to a hand-finished heirloom — inside our wood workshop.",
+    "body": "Every wooden piece begins with carefully selected, sustainably sourced timber. Our artisans read the grain, rough-cut the blank, then shape it with chisels and gouges before hours of sanding and hand-oiling. The result is a piece that feels alive in the hand and only grows more beautiful with use.",
+    "category": "Wooden",
+    "date": "2026-05-12",
+    "author": "The Workshop",
+    "thumbnail": "cat-wooden",
+    "gallery": ["hero-1", "cat-wooden", "cat-kitchen", "factory-story", "hero-2"],
+    "sections": [
+      {
+        "heading": "1. Selecting the Timber",
+        "text": "We hand-pick sustainably sourced hardwood logs, inspecting each one for grain direction, moisture and natural character. Only the best blanks make it to the bench. [Replace this text and the image with your own workshop photos and description.]",
+        "image": "cat-wooden"
+      },
+      {
+        "heading": "2. Cutting & Shaping",
+        "text": "The rough blank is cut to size and shaped with chisels, gouges and the lathe. Our artisans follow the natural grain so every curve feels intentional. [Replace this placeholder text and image later.]",
+        "image": "cat-kitchen"
+      },
+      {
+        "heading": "3. Sanding & Finishing",
+        "text": "Hours of progressive sanding bring the surface to a silky finish, followed by hand-rubbed food-safe oil that deepens the color and protects the wood. [Add your real finishing process and images here.]",
+        "image": "factory-story"
+      },
+      {
+        "heading": "4. Quality Check & Packing",
+        "text": "Each finished piece is inspected, polished one final time, and wrapped with care before it ships to you. [Swap this for your own QA and packing snapshots.]",
+        "image": "hero-2"
+      }
+    ]
+  },
+  {
+    "id": "s2",
+    "slug": "how-resin-products-are-made",
+    "title": "How Resin Products Are Made",
+    "description": "Pouring oceans — the patient art of layered epoxy resin.",
+    "body": "Resin art is equal parts chemistry and intuition. We mix pigments by hand, pour in careful layers, and let each cure before adding the next. Gold leaf and mica catch the light to create depth that looks like a frozen wave.",
+    "category": "Resin",
+    "date": "2026-05-02",
+    "author": "Studio Team",
+    "thumbnail": "cat-resin",
+    "gallery": ["cat-resin", "hero-2", "factory-story", "cat-decor", "hero-1"],
+    "sections": [
+      {
+        "heading": "1. Mixing the Resin",
+        "text": "We measure epoxy resin and hardener precisely, then blend by hand to a crystal-clear base ready for color. [Replace this text and image with your own process photos.]",
+        "image": "cat-resin"
+      },
+      {
+        "heading": "2. Adding Pigments & Color",
+        "text": "Mica powders, pigments and gold leaf are added layer by layer to build depth and movement, like a frozen wave. [Add your real coloring details and images here.]",
+        "image": "cat-decor"
+      },
+      {
+        "heading": "3. Pouring & Curing",
+        "text": "Each layer is poured carefully and left to cure fully before the next, a slow process that prevents bubbles and cracks. [Swap this placeholder later.]",
+        "image": "factory-story"
+      },
+      {
+        "heading": "4. Sanding & Polishing",
+        "text": "Once cured, the piece is sanded smooth and polished to a glass-like shine before final inspection. [Replace with your own finishing snapshots.]",
+        "image": "hero-2"
+      }
+    ]
+  },
+  {
+    "id": "s3",
+    "slug": "how-leather-products-are-made",
+    "title": "How Leather Products Are Made",
+    "description": "Full-grain leather, saddle-stitched the traditional way.",
+    "body": "We start with vegetable-tanned full-grain hides, cut by hand and burnished at every edge. Each stitch is pulled tight by hand so it never unravels — the mark of leather goods built to last a lifetime.",
+    "category": "Leather",
+    "date": "2026-04-20",
+    "author": "Leather Atelier",
+    "thumbnail": "cat-leather",
+    "gallery": ["cat-leather", "hero-2", "factory-story", "hero-1", "cat-gifts"],
+    "sections": [
+      {
+        "heading": "1. Choosing the Hide",
+        "text": "We select vegetable-tanned full-grain hides, checking for thickness and natural markings. [Replace this text and image with your own.]",
+        "image": "cat-leather"
+      },
+      {
+        "heading": "2. Cutting the Pattern",
+        "text": "Patterns are traced and cut by hand so every panel lines up perfectly. [Add your real cutting process and images here.]",
+        "image": "factory-story"
+      },
+      {
+        "heading": "3. Saddle Stitching",
+        "text": "Each stitch is pulled tight by hand using the traditional saddle-stitch so seams never unravel. [Swap this placeholder later.]",
+        "image": "cat-gifts"
+      },
+      {
+        "heading": "4. Edge Finishing",
+        "text": "Edges are sanded, dyed and burnished to a smooth, durable finish. [Replace with your own snapshots.]",
+        "image": "hero-2"
+      }
+    ]
+  },
+  {
+    "id": "s4",
+    "slug": "how-chef-knives-are-made",
+    "title": "How Chef Knives Are Made",
+    "description": "Forged, ground and balanced — the making of a chef's knife.",
+    "body": "Our knives are forged for hardness and edge retention, then hand-ground to a razor finish. Handles are shaped from stabilized hardwood and fitted for perfect balance, so the blade becomes an extension of your hand.",
+    "category": "Cutlery",
+    "date": "2026-04-08",
+    "author": "Blade Smith",
+    "thumbnail": "cat-cutlery",
+    "gallery": ["cat-cutlery", "hero-2", "factory-story", "hero-1", "cat-kitchen"],
+    "sections": [
+      {
+        "heading": "1. Forging the Blade",
+        "text": "High-carbon steel is heated and forged for hardness and edge retention. [Replace this text and image with your own.]",
+        "image": "cat-cutlery"
+      },
+      {
+        "heading": "2. Grinding the Edge",
+        "text": "The blade is hand-ground and honed to a razor-sharp finish. [Add your real grinding process and images here.]",
+        "image": "factory-story"
+      },
+      {
+        "heading": "3. Fitting the Handle",
+        "text": "Handles are shaped from stabilized hardwood and fitted for perfect balance. [Swap this placeholder later.]",
+        "image": "cat-kitchen"
+      },
+      {
+        "heading": "4. Sharpening & Testing",
+        "text": "Every knife is sharpened and tested before it leaves the workshop. [Replace with your own snapshots.]",
+        "image": "hero-2"
+      }
+    ]
+  },
+  {
+    "id": "s5",
+    "slug": "packaging-process",
+    "title": "Our Packaging Process",
+    "description": "Plastic-free, protective and beautiful to unbox.",
+    "body": "Presentation matters. Every order is wrapped in recycled tissue, nestled in a custom box and sealed with a hand-written note. Sustainable, secure, and a joy to open.",
+    "category": "Process",
+    "date": "2026-03-25",
+    "author": "Fulfilment",
+    "thumbnail": "cat-gifts",
+    "gallery": ["cat-gifts", "hero-2", "factory-story", "hero-1", "cat-decor"],
+    "sections": [
+      {
+        "heading": "1. Wrapping",
+        "text": "Each piece is wrapped in recycled tissue for a plastic-free, protective layer. [Replace this text and image with your own.]",
+        "image": "cat-gifts"
+      },
+      {
+        "heading": "2. Boxing",
+        "text": "Products are nestled into a custom-fit box so they arrive safe and secure. [Add your real packing process and images here.]",
+        "image": "factory-story"
+      },
+      {
+        "heading": "3. The Finishing Touch",
+        "text": "We seal every order with a hand-written note for a joyful unboxing. [Replace with your own snapshots.]",
+        "image": "cat-decor"
+      }
+    ]
+  },
+  {
+    "id": "s6",
+    "slug": "quality-inspection",
+    "title": "Quality Inspection",
+    "description": "Why every single piece is checked by a human, twice.",
+    "body": "Before anything ships, it passes a two-stage inspection: structural integrity and finish quality. If it isn't good enough to keep ourselves, it doesn't leave the workshop.",
+    "category": "Process",
+    "date": "2026-03-10",
+    "author": "QA Team",
+    "thumbnail": "factory-story",
+    "gallery": ["factory-story", "hero-1", "cat-cutlery", "cat-wooden", "hero-2"],
+    "sections": [
+      {
+        "heading": "1. Structural Check",
+        "text": "Each piece is inspected for structural integrity, joints and durability. [Replace this text and image with your own.]",
+        "image": "factory-story"
+      },
+      {
+        "heading": "2. Finish Check",
+        "text": "A second inspection reviews the finish, color and final details. [Add your real QA process and images here.]",
+        "image": "cat-wooden"
+      },
+      {
+        "heading": "3. Final Approval",
+        "text": "If it isn't good enough to keep ourselves, it doesn't leave the workshop. [Replace with your own snapshots.]",
+        "image": "hero-2"
+      }
+    ]
+  }
+]

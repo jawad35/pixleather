@@ -1,0 +1,2018 @@
+[
+  {
+    "id": "wooden-001",
+    "slug": "walnut-serving-board-1",
+    "name": "Walnut Serving Board",
+    "category": "Wooden",
+    "subcategory": "Trays",
+    "price": 6500,
+    "oldPrice": 7200,
+    "discount": 10,
+    "featured": false,
+    "hotSelling": true,
+    "newArrival": false,
+    "rating": 4.6,
+    "reviews": 26,
+    "stock": 58,
+    "sku": "WO001",
+    "brand": "Handmade Co.",
+    "material": "Walnut Wood",
+    "colors": [
+      "Tan",
+      "Espresso"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Round",
+    "pattern": "Natural Grain",
+    "finish": "Matte",
+    "weight": "624g",
+    "dimensions": "33 x 6 x 2 cm",
+    "description": "A premium handmade walnut serving board crafted from walnut wood with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-wooden",
+      "cat-wooden",
+      "cat-wooden",
+      "cat-wooden"
+    ],
+    "tags": [
+      "wooden",
+      "walnut wood",
+      "walnut"
+    ]
+  },
+  {
+    "id": "wooden-002",
+    "slug": "acacia-salad-bowl-2",
+    "name": "Acacia Salad Bowl",
+    "category": "Wooden",
+    "subcategory": "Trays",
+    "price": 1800,
+    "oldPrice": 2400,
+    "discount": 25,
+    "featured": true,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.7,
+    "reviews": 161,
+    "stock": 60,
+    "sku": "WO002",
+    "brand": "Handmade Co.",
+    "material": "Walnut Wood",
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Tapered",
+    "pattern": "Smooth",
+    "finish": "Polished",
+    "weight": "230g",
+    "dimensions": "27 x 5 x 5 cm",
+    "description": "A premium handmade acacia salad bowl crafted from walnut wood with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-wooden",
+      "cat-wooden",
+      "cat-wooden",
+      "cat-wooden"
+    ],
+    "tags": [
+      "wooden",
+      "walnut wood",
+      "acacia"
+    ]
+  },
+  {
+    "id": "wooden-003",
+    "slug": "carved-oak-spoon-set-3",
+    "name": "Carved Oak Spoon Set",
+    "category": "Wooden",
+    "subcategory": "Trays",
+    "price": 2500,
+    "oldPrice": 2900,
+    "discount": 15,
+    "featured": true,
+    "hotSelling": true,
+    "newArrival": true,
+    "rating": 4.9,
+    "reviews": 58,
+    "stock": 6,
+    "sku": "WO003",
+    "brand": "Handmade Co.",
+    "material": "Walnut Wood",
+    "colors": [
+      "Tan",
+      "Espresso"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Tapered",
+    "pattern": "Solid",
+    "finish": "Hand-Oiled",
+    "weight": "279g",
+    "dimensions": "37 x 6 x 5 cm",
+    "description": "A premium handmade carved oak spoon set crafted from walnut wood with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-wooden",
+      "cat-wooden",
+      "cat-wooden",
+      "cat-wooden"
+    ],
+    "tags": [
+      "wooden",
+      "walnut wood",
+      "carved"
+    ]
+  },
+  {
+    "id": "wooden-004",
+    "slug": "live-edge-tray-4",
+    "name": "Live-Edge Tray",
+    "category": "Wooden",
+    "subcategory": "Spoons",
+    "price": 1200,
+    "oldPrice": 1600,
+    "discount": 25,
+    "featured": false,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.6,
+    "reviews": 128,
+    "stock": 23,
+    "sku": "WO004",
+    "brand": "Handmade Co.",
+    "material": "Walnut Wood",
+    "colors": [
+      "Blue",
+      "Gold"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Round",
+    "pattern": "Solid",
+    "finish": "Satin",
+    "weight": "263g",
+    "dimensions": "38 x 13 x 5 cm",
+    "description": "A premium handmade live-edge tray crafted from walnut wood with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-wooden",
+      "cat-wooden",
+      "cat-wooden",
+      "cat-wooden"
+    ],
+    "tags": [
+      "wooden",
+      "walnut wood",
+      "live-edge"
+    ]
+  },
+  {
+    "id": "wooden-005",
+    "slug": "round-cheese-board-5",
+    "name": "Round Cheese Board",
+    "category": "Wooden",
+    "subcategory": "Trays",
+    "price": 9900,
+    "oldPrice": 11600,
+    "discount": 15,
+    "featured": true,
+    "hotSelling": false,
+    "newArrival": true,
+    "rating": 4.6,
+    "reviews": 205,
+    "stock": 21,
+    "sku": "WO005",
+    "brand": "Handmade Co.",
+    "material": "Walnut Wood",
+    "colors": [
+      "Natural",
+      "Walnut"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Organic",
+    "pattern": "Hand-Painted",
+    "finish": "Matte",
+    "weight": "1165g",
+    "dimensions": "22 x 14 x 3 cm",
+    "description": "A premium handmade round cheese board crafted from walnut wood with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-wooden",
+      "cat-wooden",
+      "cat-wooden",
+      "cat-wooden"
+    ],
+    "tags": [
+      "wooden",
+      "walnut wood",
+      "round"
+    ]
+  },
+  {
+    "id": "wooden-006",
+    "slug": "hand-turned-bowl-6",
+    "name": "Hand-Turned Bowl",
+    "category": "Wooden",
+    "subcategory": "Trays",
+    "price": 6500,
+    "oldPrice": 8700,
+    "discount": 25,
+    "featured": false,
+    "hotSelling": true,
+    "newArrival": false,
+    "rating": 5.0,
+    "reviews": 133,
+    "stock": 44,
+    "sku": "WO006",
+    "brand": "Handmade Co.",
+    "material": "Walnut Wood",
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Classic",
+    "pattern": "Marbled",
+    "finish": "Natural",
+    "weight": "1196g",
+    "dimensions": "34 x 13 x 6 cm",
+    "description": "A premium handmade hand-turned bowl crafted from walnut wood with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-wooden",
+      "cat-wooden",
+      "cat-wooden",
+      "cat-wooden"
+    ],
+    "tags": [
+      "wooden",
+      "walnut wood",
+      "hand-turned"
+    ]
+  },
+  {
+    "id": "leather-007",
+    "slug": "bifold-wallet-7",
+    "name": "Bifold Wallet",
+    "category": "Leather",
+    "subcategory": "Belts",
+    "price": 8500,
+    "oldPrice": 13100,
+    "discount": 35,
+    "featured": true,
+    "hotSelling": true,
+    "newArrival": true,
+    "rating": 4.4,
+    "reviews": 27,
+    "stock": 13,
+    "sku": "LE007",
+    "brand": "Handmade Co.",
+    "material": "Full-Grain Leather",
+    "colors": [
+      "Blue",
+      "Gold"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Round",
+    "pattern": "Solid",
+    "finish": "Polished",
+    "weight": "580g",
+    "dimensions": "35 x 6 x 2 cm",
+    "description": "A premium handmade bifold wallet crafted from full-grain leather with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-leather",
+      "cat-leather",
+      "cat-leather",
+      "cat-leather"
+    ],
+    "tags": [
+      "leather",
+      "full-grain leather",
+      "bifold"
+    ]
+  },
+  {
+    "id": "leather-008",
+    "slug": "crossbody-satchel-8",
+    "name": "Crossbody Satchel",
+    "category": "Leather",
+    "subcategory": "Belts",
+    "price": 9900,
+    "oldPrice": 12400,
+    "discount": 20,
+    "featured": false,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.5,
+    "reviews": 118,
+    "stock": 22,
+    "sku": "LE008",
+    "brand": "Handmade Co.",
+    "material": "Full-Grain Leather",
+    "colors": [
+      "Cream",
+      "Sand"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Round",
+    "pattern": "Solid",
+    "finish": "Matte",
+    "weight": "360g",
+    "dimensions": "24 x 11 x 6 cm",
+    "description": "A premium handmade crossbody satchel crafted from full-grain leather with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-leather",
+      "cat-leather",
+      "cat-leather",
+      "cat-leather"
+    ],
+    "tags": [
+      "leather",
+      "full-grain leather",
+      "crossbody"
+    ]
+  },
+  {
+    "id": "leather-009",
+    "slug": "slim-card-holder-9",
+    "name": "Slim Card Holder",
+    "category": "Leather",
+    "subcategory": "Card Holders",
+    "price": 3200,
+    "oldPrice": null,
+    "discount": 0,
+    "featured": false,
+    "hotSelling": true,
+    "newArrival": true,
+    "rating": 4.4,
+    "reviews": 148,
+    "stock": 23,
+    "sku": "LE009",
+    "brand": "Handmade Co.",
+    "material": "Full-Grain Leather",
+    "colors": [
+      "Tan",
+      "Espresso"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Tapered",
+    "pattern": "Marbled",
+    "finish": "Satin",
+    "weight": "887g",
+    "dimensions": "36 x 5 x 4 cm",
+    "description": "A premium handmade slim card holder crafted from full-grain leather with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-leather",
+      "cat-leather",
+      "cat-leather",
+      "cat-leather"
+    ],
+    "tags": [
+      "leather",
+      "full-grain leather",
+      "slim"
+    ]
+  },
+  {
+    "id": "leather-010",
+    "slug": "leather-belt-10",
+    "name": "Leather Belt",
+    "category": "Leather",
+    "subcategory": "Card Holders",
+    "price": 12500,
+    "oldPrice": 15600,
+    "discount": 20,
+    "featured": true,
+    "hotSelling": true,
+    "newArrival": false,
+    "rating": 4.3,
+    "reviews": 29,
+    "stock": 13,
+    "sku": "LE010",
+    "brand": "Handmade Co.",
+    "material": "Full-Grain Leather",
+    "colors": [
+      "Cream",
+      "Sand"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Round",
+    "pattern": "Natural Grain",
+    "finish": "Hand-Oiled",
+    "weight": "795g",
+    "dimensions": "21 x 7 x 1 cm",
+    "description": "A premium handmade leather belt crafted from full-grain leather with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-leather",
+      "cat-leather",
+      "cat-leather",
+      "cat-leather"
+    ],
+    "tags": [
+      "leather",
+      "full-grain leather",
+      "leather"
+    ]
+  },
+  {
+    "id": "leather-011",
+    "slug": "travel-journal-11",
+    "name": "Travel Journal",
+    "category": "Leather",
+    "subcategory": "Wallets",
+    "price": 2500,
+    "oldPrice": 3300,
+    "discount": 25,
+    "featured": false,
+    "hotSelling": false,
+    "newArrival": true,
+    "rating": 4.4,
+    "reviews": 108,
+    "stock": 9,
+    "sku": "LE011",
+    "brand": "Handmade Co.",
+    "material": "Full-Grain Leather",
+    "colors": [
+      "Blue",
+      "Gold"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Rectangular",
+    "pattern": "Smooth",
+    "finish": "Hand-Oiled",
+    "weight": "665g",
+    "dimensions": "23 x 7 x 4 cm",
+    "description": "A premium handmade travel journal crafted from full-grain leather with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-leather",
+      "cat-leather",
+      "cat-leather",
+      "cat-leather"
+    ],
+    "tags": [
+      "leather",
+      "full-grain leather",
+      "travel"
+    ]
+  },
+  {
+    "id": "leather-012",
+    "slug": "minimalist-cardcase-12",
+    "name": "Minimalist Cardcase",
+    "category": "Leather",
+    "subcategory": "Card Holders",
+    "price": 9900,
+    "oldPrice": 12400,
+    "discount": 20,
+    "featured": true,
+    "hotSelling": true,
+    "newArrival": false,
+    "rating": 4.8,
+    "reviews": 134,
+    "stock": 53,
+    "sku": "LE012",
+    "brand": "Handmade Co.",
+    "material": "Full-Grain Leather",
+    "colors": [
+      "Natural",
+      "Walnut"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Tapered",
+    "pattern": "Natural Grain",
+    "finish": "Satin",
+    "weight": "1153g",
+    "dimensions": "36 x 15 x 2 cm",
+    "description": "A premium handmade minimalist cardcase crafted from full-grain leather with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-leather",
+      "cat-leather",
+      "cat-leather",
+      "cat-leather"
+    ],
+    "tags": [
+      "leather",
+      "full-grain leather",
+      "minimalist"
+    ]
+  },
+  {
+    "id": "cutlery-013",
+    "slug": "premium-chef-knife-13",
+    "name": "Premium Chef Knife",
+    "category": "Cutlery",
+    "subcategory": "Knife Sets",
+    "price": 12500,
+    "oldPrice": null,
+    "discount": 0,
+    "featured": false,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.5,
+    "reviews": 105,
+    "stock": 58,
+    "sku": "CU013",
+    "brand": "Handmade Co.",
+    "material": "Walnut & Steel",
+    "colors": [
+      "Natural",
+      "Walnut"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Rectangular",
+    "pattern": "Solid",
+    "finish": "Natural",
+    "weight": "734g",
+    "dimensions": "36 x 14 x 6 cm",
+    "description": "A premium handmade premium chef knife crafted from walnut & steel with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-cutlery",
+      "cat-cutlery",
+      "cat-cutlery",
+      "cat-cutlery"
+    ],
+    "tags": [
+      "cutlery",
+      "walnut & steel",
+      "premium"
+    ]
+  },
+  {
+    "id": "cutlery-014",
+    "slug": "damascus-paring-knife-14",
+    "name": "Damascus Paring Knife",
+    "category": "Cutlery",
+    "subcategory": "Paring Knives",
+    "price": 3200,
+    "oldPrice": 4300,
+    "discount": 25,
+    "featured": false,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.5,
+    "reviews": 144,
+    "stock": 31,
+    "sku": "CU014",
+    "brand": "Handmade Co.",
+    "material": "Walnut & Steel",
+    "colors": [
+      "Blue",
+      "Gold"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Classic",
+    "pattern": "Natural Grain",
+    "finish": "Hand-Oiled",
+    "weight": "663g",
+    "dimensions": "28 x 10 x 6 cm",
+    "description": "A premium handmade damascus paring knife crafted from walnut & steel with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-cutlery",
+      "cat-cutlery",
+      "cat-cutlery",
+      "cat-cutlery"
+    ],
+    "tags": [
+      "cutlery",
+      "walnut & steel",
+      "damascus"
+    ]
+  },
+  {
+    "id": "cutlery-015",
+    "slug": "8pc-knife-set-15",
+    "name": "8pc Knife Set",
+    "category": "Cutlery",
+    "subcategory": "Knife Sets",
+    "price": 6500,
+    "oldPrice": 8100,
+    "discount": 20,
+    "featured": false,
+    "hotSelling": true,
+    "newArrival": true,
+    "rating": 4.5,
+    "reviews": 62,
+    "stock": 21,
+    "sku": "CU015",
+    "brand": "Handmade Co.",
+    "material": "Walnut & Steel",
+    "colors": [
+      "Natural",
+      "Walnut"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Organic",
+    "pattern": "Smooth",
+    "finish": "Natural",
+    "weight": "1040g",
+    "dimensions": "20 x 19 x 6 cm",
+    "description": "A premium handmade 8pc knife set crafted from walnut & steel with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-cutlery",
+      "cat-cutlery",
+      "cat-cutlery",
+      "cat-cutlery"
+    ],
+    "tags": [
+      "cutlery",
+      "walnut & steel",
+      "8pc"
+    ]
+  },
+  {
+    "id": "cutlery-016",
+    "slug": "hand-forged-cleaver-16",
+    "name": "Hand-Forged Cleaver",
+    "category": "Cutlery",
+    "subcategory": "Chef Knives",
+    "price": 6500,
+    "oldPrice": 10000,
+    "discount": 35,
+    "featured": false,
+    "hotSelling": true,
+    "newArrival": false,
+    "rating": 4.8,
+    "reviews": 63,
+    "stock": 30,
+    "sku": "CU016",
+    "brand": "Handmade Co.",
+    "material": "Walnut & Steel",
+    "colors": [
+      "Natural",
+      "Walnut"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Organic",
+    "pattern": "Marbled",
+    "finish": "Matte",
+    "weight": "1000g",
+    "dimensions": "32 x 18 x 4 cm",
+    "description": "A premium handmade hand-forged cleaver crafted from walnut & steel with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-cutlery",
+      "cat-cutlery",
+      "cat-cutlery",
+      "cat-cutlery"
+    ],
+    "tags": [
+      "cutlery",
+      "walnut & steel",
+      "hand-forged"
+    ]
+  },
+  {
+    "id": "cutlery-017",
+    "slug": "santoku-knife-17",
+    "name": "Santoku Knife",
+    "category": "Cutlery",
+    "subcategory": "Paring Knives",
+    "price": 1800,
+    "oldPrice": 2800,
+    "discount": 35,
+    "featured": true,
+    "hotSelling": true,
+    "newArrival": true,
+    "rating": 4.9,
+    "reviews": 218,
+    "stock": 41,
+    "sku": "CU017",
+    "brand": "Handmade Co.",
+    "material": "Walnut & Steel",
+    "colors": [
+      "Natural",
+      "Walnut"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Tapered",
+    "pattern": "Smooth",
+    "finish": "Polished",
+    "weight": "853g",
+    "dimensions": "31 x 8 x 5 cm",
+    "description": "A premium handmade santoku knife crafted from walnut & steel with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-cutlery",
+      "cat-cutlery",
+      "cat-cutlery",
+      "cat-cutlery"
+    ],
+    "tags": [
+      "cutlery",
+      "walnut & steel",
+      "santoku"
+    ]
+  },
+  {
+    "id": "cutlery-018",
+    "slug": "steak-knife-set-18",
+    "name": "Steak Knife Set",
+    "category": "Cutlery",
+    "subcategory": "Chef Knives",
+    "price": 12500,
+    "oldPrice": 13900,
+    "discount": 10,
+    "featured": true,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.7,
+    "reviews": 47,
+    "stock": 27,
+    "sku": "CU018",
+    "brand": "Handmade Co.",
+    "material": "Walnut & Steel",
+    "colors": [
+      "Natural",
+      "Walnut"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Round",
+    "pattern": "Natural Grain",
+    "finish": "Hand-Oiled",
+    "weight": "397g",
+    "dimensions": "29 x 20 x 2 cm",
+    "description": "A premium handmade steak knife set crafted from walnut & steel with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-cutlery",
+      "cat-cutlery",
+      "cat-cutlery",
+      "cat-cutlery"
+    ],
+    "tags": [
+      "cutlery",
+      "walnut & steel",
+      "steak"
+    ]
+  },
+  {
+    "id": "kitchen-031",
+    "slug": "beech-mixing-bowl-31",
+    "name": "Beech Mixing Bowl",
+    "category": "Kitchen",
+    "subcategory": "Utensils",
+    "price": 1200,
+    "oldPrice": null,
+    "discount": 0,
+    "featured": false,
+    "hotSelling": true,
+    "newArrival": false,
+    "rating": 4.6,
+    "reviews": 141,
+    "stock": 42,
+    "sku": "KI031",
+    "brand": "Handmade Co.",
+    "material": "Beech Wood",
+    "colors": [
+      "Blue",
+      "Gold"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Tapered",
+    "pattern": "Solid",
+    "finish": "Hand-Oiled",
+    "weight": "226g",
+    "dimensions": "34 x 9 x 2 cm",
+    "description": "A premium handmade beech mixing bowl crafted from beech wood with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-kitchen",
+      "cat-kitchen",
+      "cat-kitchen",
+      "cat-kitchen"
+    ],
+    "tags": [
+      "kitchen",
+      "beech wood",
+      "beech"
+    ]
+  },
+  {
+    "id": "kitchen-032",
+    "slug": "wooden-canister-set-32",
+    "name": "Wooden Canister Set",
+    "category": "Kitchen",
+    "subcategory": "Bowls",
+    "price": 4500,
+    "oldPrice": 5600,
+    "discount": 20,
+    "featured": true,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.7,
+    "reviews": 74,
+    "stock": 2,
+    "sku": "KI032",
+    "brand": "Handmade Co.",
+    "material": "Beech Wood",
+    "colors": [
+      "Blue",
+      "Gold"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Round",
+    "pattern": "Marbled",
+    "finish": "Satin",
+    "weight": "181g",
+    "dimensions": "30 x 16 x 1 cm",
+    "description": "A premium handmade wooden canister set crafted from beech wood with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-kitchen",
+      "cat-kitchen",
+      "cat-kitchen",
+      "cat-kitchen"
+    ],
+    "tags": [
+      "kitchen",
+      "beech wood",
+      "wooden"
+    ]
+  },
+  {
+    "id": "kitchen-033",
+    "slug": "utensil-holder-33",
+    "name": "Utensil Holder",
+    "category": "Kitchen",
+    "subcategory": "Canisters",
+    "price": 9900,
+    "oldPrice": 11600,
+    "discount": 15,
+    "featured": true,
+    "hotSelling": false,
+    "newArrival": true,
+    "rating": 4.9,
+    "reviews": 48,
+    "stock": 25,
+    "sku": "KI033",
+    "brand": "Handmade Co.",
+    "material": "Beech Wood",
+    "colors": [
+      "Tan",
+      "Espresso"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Classic",
+    "pattern": "Hand-Painted",
+    "finish": "Matte",
+    "weight": "486g",
+    "dimensions": "29 x 11 x 1 cm",
+    "description": "A premium handmade utensil holder crafted from beech wood with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-kitchen",
+      "cat-kitchen",
+      "cat-kitchen",
+      "cat-kitchen"
+    ],
+    "tags": [
+      "kitchen",
+      "beech wood",
+      "utensil"
+    ]
+  },
+  {
+    "id": "kitchen-034",
+    "slug": "serving-platter-34",
+    "name": "Serving Platter",
+    "category": "Kitchen",
+    "subcategory": "Serveware",
+    "price": 12500,
+    "oldPrice": 13900,
+    "discount": 10,
+    "featured": false,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.5,
+    "reviews": 170,
+    "stock": 41,
+    "sku": "KI034",
+    "brand": "Handmade Co.",
+    "material": "Beech Wood",
+    "colors": [
+      "Natural",
+      "Walnut"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Classic",
+    "pattern": "Smooth",
+    "finish": "Polished",
+    "weight": "931g",
+    "dimensions": "36 x 8 x 5 cm",
+    "description": "A premium handmade serving platter crafted from beech wood with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-kitchen",
+      "cat-kitchen",
+      "cat-kitchen",
+      "cat-kitchen"
+    ],
+    "tags": [
+      "kitchen",
+      "beech wood",
+      "serving"
+    ]
+  },
+  {
+    "id": "kitchen-035",
+    "slug": "spice-jar-set-35",
+    "name": "Spice Jar Set",
+    "category": "Kitchen",
+    "subcategory": "Bowls",
+    "price": 12500,
+    "oldPrice": 16700,
+    "discount": 25,
+    "featured": false,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.8,
+    "reviews": 189,
+    "stock": 41,
+    "sku": "KI035",
+    "brand": "Handmade Co.",
+    "material": "Beech Wood",
+    "colors": [
+      "Natural",
+      "Walnut"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Classic",
+    "pattern": "Natural Grain",
+    "finish": "Matte",
+    "weight": "316g",
+    "dimensions": "40 x 15 x 1 cm",
+    "description": "A premium handmade spice jar set crafted from beech wood with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-kitchen",
+      "cat-kitchen",
+      "cat-kitchen",
+      "cat-kitchen"
+    ],
+    "tags": [
+      "kitchen",
+      "beech wood",
+      "spice"
+    ]
+  },
+  {
+    "id": "kitchen-036",
+    "slug": "nesting-bowl-trio-36",
+    "name": "Nesting Bowl Trio",
+    "category": "Kitchen",
+    "subcategory": "Bowls",
+    "price": 8500,
+    "oldPrice": 10600,
+    "discount": 20,
+    "featured": false,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.6,
+    "reviews": 12,
+    "stock": 29,
+    "sku": "KI036",
+    "brand": "Handmade Co.",
+    "material": "Beech Wood",
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Tapered",
+    "pattern": "Smooth",
+    "finish": "Matte",
+    "weight": "855g",
+    "dimensions": "36 x 6 x 6 cm",
+    "description": "A premium handmade nesting bowl trio crafted from beech wood with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-kitchen",
+      "cat-kitchen",
+      "cat-kitchen",
+      "cat-kitchen"
+    ],
+    "tags": [
+      "kitchen",
+      "beech wood",
+      "nesting"
+    ]
+  },
+  {
+    "id": "gifts-037",
+    "slug": "artisan-gift-box-37",
+    "name": "Artisan Gift Box",
+    "category": "Gifts",
+    "subcategory": "Birthday Gifts",
+    "price": 9900,
+    "oldPrice": 11600,
+    "discount": 15,
+    "featured": false,
+    "hotSelling": true,
+    "newArrival": false,
+    "rating": 4.5,
+    "reviews": 178,
+    "stock": 29,
+    "sku": "GI037",
+    "brand": "Handmade Co.",
+    "material": "Mixed Materials",
+    "colors": [
+      "Cream",
+      "Sand"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Organic",
+    "pattern": "Natural Grain",
+    "finish": "Polished",
+    "weight": "1112g",
+    "dimensions": "29 x 5 x 5 cm",
+    "description": "A premium handmade artisan gift box crafted from mixed materials with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-gifts",
+      "cat-gifts",
+      "cat-gifts",
+      "cat-gifts"
+    ],
+    "tags": [
+      "gifts",
+      "mixed materials",
+      "artisan"
+    ]
+  },
+  {
+    "id": "gifts-038",
+    "slug": "wedding-keepsake-set-38",
+    "name": "Wedding Keepsake Set",
+    "category": "Gifts",
+    "subcategory": "Wedding Gifts",
+    "price": 3200,
+    "oldPrice": null,
+    "discount": 0,
+    "featured": true,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.7,
+    "reviews": 46,
+    "stock": 0,
+    "sku": "GI038",
+    "brand": "Handmade Co.",
+    "material": "Mixed Materials",
+    "colors": [
+      "Cream",
+      "Sand"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Classic",
+    "pattern": "Hand-Painted",
+    "finish": "Hand-Oiled",
+    "weight": "1175g",
+    "dimensions": "23 x 10 x 6 cm",
+    "description": "A premium handmade wedding keepsake set crafted from mixed materials with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-gifts",
+      "cat-gifts",
+      "cat-gifts",
+      "cat-gifts"
+    ],
+    "tags": [
+      "gifts",
+      "mixed materials",
+      "wedding"
+    ]
+  },
+  {
+    "id": "gifts-039",
+    "slug": "corporate-gift-hamper-39",
+    "name": "Corporate Gift Hamper",
+    "category": "Gifts",
+    "subcategory": "Corporate Gifts",
+    "price": 9900,
+    "oldPrice": 11600,
+    "discount": 15,
+    "featured": false,
+    "hotSelling": true,
+    "newArrival": true,
+    "rating": 4.9,
+    "reviews": 63,
+    "stock": 19,
+    "sku": "GI039",
+    "brand": "Handmade Co.",
+    "material": "Mixed Materials",
+    "colors": [
+      "Brown",
+      "Black"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Organic",
+    "pattern": "Natural Grain",
+    "finish": "Hand-Oiled",
+    "weight": "649g",
+    "dimensions": "22 x 20 x 4 cm",
+    "description": "A premium handmade corporate gift hamper crafted from mixed materials with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-gifts",
+      "cat-gifts",
+      "cat-gifts",
+      "cat-gifts"
+    ],
+    "tags": [
+      "gifts",
+      "mixed materials",
+      "corporate"
+    ]
+  },
+  {
+    "id": "gifts-040",
+    "slug": "luxury-gift-crate-40",
+    "name": "Luxury Gift Crate",
+    "category": "Gifts",
+    "subcategory": "Wedding Gifts",
+    "price": 4500,
+    "oldPrice": 5600,
+    "discount": 20,
+    "featured": false,
+    "hotSelling": false,
+    "newArrival": true,
+    "rating": 4.4,
+    "reviews": 203,
+    "stock": 33,
+    "sku": "GI040",
+    "brand": "Handmade Co.",
+    "material": "Mixed Materials",
+    "colors": [
+      "Blue",
+      "Gold"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Rectangular",
+    "pattern": "Solid",
+    "finish": "Natural",
+    "weight": "1019g",
+    "dimensions": "40 x 20 x 3 cm",
+    "description": "A premium handmade luxury gift crate crafted from mixed materials with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-gifts",
+      "cat-gifts",
+      "cat-gifts",
+      "cat-gifts"
+    ],
+    "tags": [
+      "gifts",
+      "mixed materials",
+      "luxury"
+    ]
+  },
+  {
+    "id": "gifts-041",
+    "slug": "anniversary-bundle-41",
+    "name": "Anniversary Bundle",
+    "category": "Gifts",
+    "subcategory": "Corporate Gifts",
+    "price": 1800,
+    "oldPrice": 2800,
+    "discount": 35,
+    "featured": true,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.3,
+    "reviews": 12,
+    "stock": 60,
+    "sku": "GI041",
+    "brand": "Handmade Co.",
+    "material": "Mixed Materials",
+    "colors": [
+      "Cream",
+      "Sand"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Organic",
+    "pattern": "Hand-Painted",
+    "finish": "Hand-Oiled",
+    "weight": "924g",
+    "dimensions": "24 x 17 x 3 cm",
+    "description": "A premium handmade anniversary bundle crafted from mixed materials with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-gifts",
+      "cat-gifts",
+      "cat-gifts",
+      "cat-gifts"
+    ],
+    "tags": [
+      "gifts",
+      "mixed materials",
+      "anniversary"
+    ]
+  },
+  {
+    "id": "gifts-042",
+    "slug": "custom-engraved-set-42",
+    "name": "Custom Engraved Set",
+    "category": "Gifts",
+    "subcategory": "Birthday Gifts",
+    "price": 8500,
+    "oldPrice": 10000,
+    "discount": 15,
+    "featured": false,
+    "hotSelling": true,
+    "newArrival": false,
+    "rating": 4.9,
+    "reviews": 42,
+    "stock": 60,
+    "sku": "GI042",
+    "brand": "Handmade Co.",
+    "material": "Mixed Materials",
+    "colors": [
+      "Natural",
+      "Walnut"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Classic",
+    "pattern": "Marbled",
+    "finish": "Hand-Oiled",
+    "weight": "561g",
+    "dimensions": "22 x 16 x 4 cm",
+    "description": "A premium handmade custom engraved set crafted from mixed materials with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-gifts",
+      "cat-gifts",
+      "cat-gifts",
+      "cat-gifts"
+    ],
+    "tags": [
+      "gifts",
+      "mixed materials",
+      "custom"
+    ]
+  },
+  {
+    "id": "sports-043",
+    "slug": "english-willow-cricket-bat-43",
+    "name": "English Willow Cricket Bat",
+    "category": "Sports",
+    "subcategory": "Outdoor",
+    "price": 1800,
+    "oldPrice": 2100,
+    "discount": 15,
+    "featured": false,
+    "hotSelling": false,
+    "newArrival": true,
+    "rating": 4.3,
+    "reviews": 181,
+    "stock": 18,
+    "sku": "SP043",
+    "brand": "Handmade Co.",
+    "material": "English Willow",
+    "colors": [
+      "Natural",
+      "Walnut"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Round",
+    "pattern": "Marbled",
+    "finish": "Polished",
+    "weight": "703g",
+    "dimensions": "30 x 10 x 3 cm",
+    "description": "A premium handmade english willow cricket bat crafted from english willow with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-sports",
+      "cat-sports",
+      "cat-sports",
+      "cat-sports"
+    ],
+    "tags": [
+      "sports",
+      "english willow",
+      "english"
+    ]
+  },
+  {
+    "id": "sports-044",
+    "slug": "hand-stitched-ball-44",
+    "name": "Hand-Stitched Ball",
+    "category": "Sports",
+    "subcategory": "Games",
+    "price": 8500,
+    "oldPrice": null,
+    "discount": 0,
+    "featured": false,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.4,
+    "reviews": 32,
+    "stock": 3,
+    "sku": "SP044",
+    "brand": "Handmade Co.",
+    "material": "English Willow",
+    "colors": [
+      "Cream",
+      "Sand"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Organic",
+    "pattern": "Smooth",
+    "finish": "Satin",
+    "weight": "839g",
+    "dimensions": "29 x 19 x 1 cm",
+    "description": "A premium handmade hand-stitched ball crafted from english willow with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-sports",
+      "cat-sports",
+      "cat-sports",
+      "cat-sports"
+    ],
+    "tags": [
+      "sports",
+      "english willow",
+      "hand-stitched"
+    ]
+  },
+  {
+    "id": "sports-045",
+    "slug": "wooden-carrom-board-45",
+    "name": "Wooden Carrom Board",
+    "category": "Sports",
+    "subcategory": "Cricket",
+    "price": 12500,
+    "oldPrice": 13900,
+    "discount": 10,
+    "featured": false,
+    "hotSelling": true,
+    "newArrival": true,
+    "rating": 4.8,
+    "reviews": 179,
+    "stock": 16,
+    "sku": "SP045",
+    "brand": "Handmade Co.",
+    "material": "English Willow",
+    "colors": [
+      "Cream",
+      "Sand"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Round",
+    "pattern": "Marbled",
+    "finish": "Polished",
+    "weight": "750g",
+    "dimensions": "32 x 7 x 2 cm",
+    "description": "A premium handmade wooden carrom board crafted from english willow with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-sports",
+      "cat-sports",
+      "cat-sports",
+      "cat-sports"
+    ],
+    "tags": [
+      "sports",
+      "english willow",
+      "wooden"
+    ]
+  },
+  {
+    "id": "sports-046",
+    "slug": "tennis-cricket-bat-46",
+    "name": "Tennis Cricket Bat",
+    "category": "Sports",
+    "subcategory": "Cricket",
+    "price": 2500,
+    "oldPrice": null,
+    "discount": 0,
+    "featured": false,
+    "hotSelling": false,
+    "newArrival": false,
+    "rating": 4.6,
+    "reviews": 97,
+    "stock": 48,
+    "sku": "SP046",
+    "brand": "Handmade Co.",
+    "material": "English Willow",
+    "colors": [
+      "Cream",
+      "Sand"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Organic",
+    "pattern": "Solid",
+    "finish": "Natural",
+    "weight": "377g",
+    "dimensions": "27 x 6 x 2 cm",
+    "description": "A premium handmade tennis cricket bat crafted from english willow with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-sports",
+      "cat-sports",
+      "cat-sports",
+      "cat-sports"
+    ],
+    "tags": [
+      "sports",
+      "english willow",
+      "tennis"
+    ]
+  },
+  {
+    "id": "sports-047",
+    "slug": "practice-bat-47",
+    "name": "Practice Bat",
+    "category": "Sports",
+    "subcategory": "Cricket",
+    "price": 6500,
+    "oldPrice": 8700,
+    "discount": 25,
+    "featured": true,
+    "hotSelling": true,
+    "newArrival": false,
+    "rating": 4.4,
+    "reviews": 17,
+    "stock": 47,
+    "sku": "SP047",
+    "brand": "Handmade Co.",
+    "material": "English Willow",
+    "colors": [
+      "Cream",
+      "Sand"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Organic",
+    "pattern": "Hand-Painted",
+    "finish": "Natural",
+    "weight": "395g",
+    "dimensions": "32 x 12 x 3 cm",
+    "description": "A premium handmade practice bat crafted from english willow with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-sports",
+      "cat-sports",
+      "cat-sports",
+      "cat-sports"
+    ],
+    "tags": [
+      "sports",
+      "english willow",
+      "practice"
+    ]
+  },
+  {
+    "id": "sports-048",
+    "slug": "heirloom-chess-set-48",
+    "name": "Heirloom Chess Set",
+    "category": "Sports",
+    "subcategory": "Outdoor",
+    "price": 1200,
+    "oldPrice": 1500,
+    "discount": 20,
+    "featured": false,
+    "hotSelling": true,
+    "newArrival": false,
+    "rating": 4.7,
+    "reviews": 214,
+    "stock": 55,
+    "sku": "SP048",
+    "brand": "Handmade Co.",
+    "material": "English Willow",
+    "colors": [
+      "Natural",
+      "Walnut"
+    ],
+    "sizes": [
+      "Small",
+      "Medium",
+      "Large"
+    ],
+    "variants": [
+      "Standard",
+      "Gift Box"
+    ],
+    "shape": "Classic",
+    "pattern": "Marbled",
+    "finish": "Satin",
+    "weight": "573g",
+    "dimensions": "32 x 18 x 4 cm",
+    "description": "A premium handmade heirloom chess set crafted from english willow with meticulous attention to detail. Each piece is finished by hand in our workshop, making it unique and built to last for years.",
+    "features": [
+      "Handmade",
+      "Premium Materials",
+      "Long Lasting",
+      "Custom Engraving Available",
+      "Ethically Sourced"
+    ],
+    "gallery": [
+      "cat-sports",
+      "cat-sports",
+      "cat-sports",
+      "cat-sports"
+    ],
+    "tags": [
+      "sports",
+      "english willow",
+      "heirloom"
+    ]
+  }
+]
